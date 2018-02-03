@@ -1,0 +1,8 @@
+div.black_board
+{
+	width: 90%;
+}
+input.in
+{
+	border-radius: 5px;margin: 05px;padding: 3px;font-family: marker;width: 40vw;
+}
